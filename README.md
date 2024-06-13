@@ -8,3 +8,6 @@ This is a python code to test typing speed. This code has following functionalit
               - Typing speed is calculated on the basis of words typed per minute and number of errors made.
               - Score get store in a dictionary and best score can be printed on screen.
               - YOUR SCORE REPORT will include -> Your speed i.e {speed} words/sec and the error rate percentage.
+
+
+              
